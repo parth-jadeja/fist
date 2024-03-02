@@ -1,2 +1,2 @@
-# fist
-my fist repository
+# first
+my first repository
